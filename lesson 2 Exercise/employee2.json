@@ -1,0 +1,26 @@
+[
+    {
+        "id": 90,
+        "name": "Mercy Doe",
+        "department": "Engineering",
+        "salary": 60000
+    },
+    {
+        "id": 25,
+        "name": "Jane Melon",
+        "department": "Procurement",
+        "salary": 55000
+    },
+    {
+        "id": 35,
+        "name": "Sam Brown",
+        "department": "HR",
+        "salary": 50000
+    },
+    {
+        "id": 635,
+        "name": "Mercy Brown",
+        "department": "Procurement",
+        "salary": 45000
+    }
+]

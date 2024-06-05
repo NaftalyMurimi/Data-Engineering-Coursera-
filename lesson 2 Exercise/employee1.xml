@@ -1,0 +1,20 @@
+<employees>
+    <employee>
+        <id>76</id>
+        <name>Michael Maina</name>
+        <department>HR</department>
+        <salary>52000</salary>
+    </employee>
+    <employee>
+        <id>87</id>
+        <name>Emily Hope</name>
+        <department>Legal</department>
+        <salary>58000</salary>
+    </employee>
+    <employee>
+        <id>96</id>
+        <name>David Martinez</name>
+        <department>Procurement</department>
+        <salary>22000</salary>
+    </employee>
+</employees>

@@ -1,0 +1,20 @@
+<employees>
+    <employee>
+        <id>7</id>
+        <name>Michael Miller</name>
+        <department>IT</department>
+        <salary>52000</salary>
+    </employee>
+    <employee>
+        <id>8</id>
+        <name>Emily Garcia</name>
+        <department>Legal</department>
+        <salary>58000</salary>
+    </employee>
+    <employee>
+        <id>9</id>
+        <name>David Martinez</name>
+        <department>Operations</department>
+        <salary>62000</salary>
+    </employee>
+</employees>

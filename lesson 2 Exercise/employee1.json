@@ -1,0 +1,20 @@
+[
+    {
+        "id": 111,
+        "name": "John Moo",
+        "department": "Engineering",
+        "salary": 88000
+    },
+    {
+        "id": 22,
+        "name": "Jane Kenol",
+        "department": "Marketing",
+        "salary": 88000
+    },
+    {
+        "id": 32,
+        "name": "Sam Black",
+        "department": "Human Resources",
+        "salary": 57000
+    }
+]
